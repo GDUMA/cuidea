@@ -23,9 +23,8 @@
   - [3.4 Precio y coste](#34-precio-y-coste)
   - [3.5 Licencias e instalación](#35-licencias-e-instalación)
 - [4 Requisitos funcionales](#4-requisitos-funcionales)
-- [5 Precedencia y prioridad](#5-precedencia-y-prioridad)
-- [6 Requisitos no funcionales](#6-requisitos-no-funcionales)
-- [7 Modelo del dominio](#7-modelo-del-dominio)
+- [5 Requisitos no funcionales](#5-requisitos-no-funcionales)
+- [6 Modelo del dominio](#6-modelo-del-dominio)
 
 ## 1. Introducción
 
@@ -63,8 +62,14 @@
 
 ## 4 Requisitos funcionales
 
-## 5 Precedencia y prioridad
+| ID  | Nombre | Descripción | Precedencia | Prioridad |
+| --- | ------ | ----------- | ----------- | --------- |
+|     |        |             |             |           |
 
-## 6 Requisitos no funcionales
+## 5 Requisitos no funcionales
 
-## 7 Modelo del dominio
+| ID  | Nombre | Descripción | Precedencia | Prioridad |
+| --- | ------ | ----------- | ----------- | --------- |
+|     |        |             |             |           |
+
+## 6 Modelo del dominio
