@@ -19,12 +19,9 @@
 - [3 Visión general del producto](#3-visión-general-del-producto)
   - [3.1 Entorno de despliegue](#31-entorno-de-despliegue)
   - [3.2 Resumen de características](#32-resumen-de-características)
-  - [3.3 Suposiciones y dependencias](#33-suposiciones-y-dependencias)
-  - [3.4 Precio y coste](#34-precio-y-coste)
-  - [3.5 Licencias e instalación](#35-licencias-e-instalación)
+  - [3.3 Precio y coste](#34-precio-y-coste)
+  - [3.4 Licencias e instalación](#35-licencias-e-instalación)
 - [4 Requisitos funcionales](#4-requisitos-funcionales)
-- [5 Requisitos no funcionales](#5-requisitos-no-funcionales)
-- [6 Modelo del dominio](#6-modelo-del-dominio)
 
 ## 1. Introducción
 
@@ -59,7 +56,9 @@ Dicha aplicación consta de una interfaz simple e intuitiva, en la cual profesio
 Por parte del cliente, podrá filtrar sus preferencias, al igual que revisar comentarios de los servicios escritos por otros clientes.
 
 ### 2.3 Perfiles de usuarios
-
+Podemos disitnguir dos perfiles de usuarios:
+**1. Cuidador:** este perfil está diseñado para aquellas personas que usan cuidea para ofertar sus servicios. Podrá gestionar su perfil incluyendo en el su curriculum y referencias, así como reseñas de aquellos que ya han recurrido a sus servicios. 
+**2. Solicitante:** orientado a quien necesita de un cuidador. En su perfil podrá indiciar que tipo de cuidado precisa asi como el horario, si es ocasional o a largo plazo, y demás características del servicio que necesita.
 ### 2.4 Alternativas y competencia
 En competencia a nuestro proyecto, podemos encontrar muchas apps enfocadas al cuidado o servicios, sin embargo señalaremos las siguientes ya que parecen ser bastante conocidas:
 **1. Webel:** es una aplicación de servicios a domicilio. Dispone de diferentes servicios ofertados por profesionales que puedes contratar de manera sencilla, rápida y segura.
@@ -77,12 +76,18 @@ Inicialmente, *Cuidea* será una aplicación principalmente para dispositivos m�
 
 ### 3.2 Resumen de características
 
+### 3.3 Precio y coste
+Cuidea está pensada para que sea totalmente gratuita, y que sea un servicio disponible y accesible para todo el mundo. Por un lado, se podrá descargar gratuitamente desde la Google Play Store de Android o la App Store de IOS, y en el caso de poseer ordenador, se podrá acceder desde el navegador. Por otro lado, existirá una cuenta premium, con un coste de      ? €, con la que se obtendrán más privilegios de usuario, como por ejemplo, tener más prioridad y visibilidad en tus anuncios.
+En cuanto al coste del proyecto, teniendo en cuenta que se desarrolla en el ámbito del Grupo de Desarrollo UMA, siendo este voluntario, y que el software utilizado es gratuito, el proyecto no conlleva ningún tipo de coste.
 
-### 3.3 Suposiciones y dependencias
+### 3.4 Licencias e instalación
+Durante el desarrollo del proyecto siempre usaremos entornos de trabajo gratuitos, o software con licencias proporcionadas gratuitamente por la UMA.
 
-### 3.4 Precio y coste
-
-### 3.5 Licencias e instalación
+-**Editores de código o IDE:** utilizaremos Visual Studio Code, IntelliJ IDEA o Android Studio, según las necesidades del momento y a elección del desarrollador.
+-**Diseño de componentes, vistas e interfaces:** se utilizará Figma para estas funcionalidades, ya que nos proporciona la capacidad de trabajar colectivamente en un mismo proyecto, cada uno desde nuestro ordenador personal.
+-**Diseño y esquematización de la base de datos:** se volverá a utilizar Figma en este ámbito, simplemente porque nos permite tener todos los diseños visuales de la aplicación en un mismo programa.
+-**Persistencia del código y tareas:** se utilizará GitHub para la persistencia del código en un repositorio y para la asignación de tareas y discusión de problemas y dudas colectivas.
+-**Reuniones y organización:** para la organización de reuniones y para comentar aspectos e información importante se utilizará Discord.
 
 ## 4 Requisitos funcionales
 
@@ -90,10 +95,3 @@ Inicialmente, *Cuidea* será una aplicación principalmente para dispositivos m�
 | --- | ------ | ----------- | ----------- | --------- |
 |     |        |             |             |           |
 
-## 5 Requisitos no funcionales
-
-| ID  | Nombre | Descripción | Precedencia | Prioridad |
-| --- | ------ | ----------- | ----------- | --------- |
-|     |        |             |             |           |
-
-## 6 Modelo del dominio
