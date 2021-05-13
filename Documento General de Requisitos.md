@@ -59,6 +59,7 @@ Por parte del cliente, podrá filtrar sus preferencias, al igual que revisar com
 Podemos disitnguir dos perfiles de usuarios:
 **1. Cuidador:** este perfil está diseñado para aquellas personas que usan cuidea para ofertar sus servicios. Podrá gestionar su perfil incluyendo en el su curriculum y referencias, así como reseñas de aquellos que ya han recurrido a sus servicios. 
 **2. Solicitante:** orientado a quien necesita de un cuidador. En su perfil podrá indiciar que tipo de cuidado precisa asi como el horario, si es ocasional o a largo plazo, y demás características del servicio que necesita.
+
 ### 2.4 Alternativas y competencia
 En competencia a nuestro proyecto, podemos encontrar muchas apps enfocadas al cuidado o servicios, sin embargo señalaremos las siguientes ya que parecen ser bastante conocidas:
 **1. Webel:** es una aplicación de servicios a domicilio. Dispone de diferentes servicios ofertados por profesionales que puedes contratar de manera sencilla, rápida y segura.
@@ -95,3 +96,7 @@ Durante el desarrollo del proyecto siempre usaremos entornos de trabajo gratuito
 | --- | ------ | ----------- | ----------- | --------- |
 |     |        |             |             |           |
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> afcaa4e3aaa99b52ec1a3751acc67123976cbd7c
