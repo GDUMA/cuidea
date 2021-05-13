@@ -83,6 +83,8 @@ Inicialmente, *Cuidea* será una aplicación principalmente para dispositivos m�
 
 ### 3.2 Resumen de características
 
+En este apartado se mostrarán las principales características y funcionalidades de la aplicación. En cada fila de la tabla se puede observar una funcionalidad que ofrece la aplicación y cómo el usuario se puede beneficiar de dicha característica.
+
 |Funcionalidad | Beneficio para el usuario|
 |:----|:-----|
 |Publicar tus servicios de cuidado de personas en diversas situaciones |Para el demandante el beneficio es encontrar a alguien que le ayuda a suplir una necesidad, cuidado de mayores, niños… Y para el ofertante el beneficio es dar a conocer sus servicios a gente interesada en ellos.|
