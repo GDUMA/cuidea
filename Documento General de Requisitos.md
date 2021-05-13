@@ -95,8 +95,3 @@ Durante el desarrollo del proyecto siempre usaremos entornos de trabajo gratuito
 | ID  | Nombre | Descripción | Precedencia | Prioridad |
 | --- | ------ | ----------- | ----------- | --------- |
 |     |        |             |             |           |
-
-<<<<<<< HEAD
-=======
-
->>>>>>> afcaa4e3aaa99b52ec1a3751acc67123976cbd7c
